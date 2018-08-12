@@ -1,0 +1,9 @@
+{
+    "extends": ["eslint-config-alloy/react", "prettier"],
+    "rules": {
+        "react/jsx-tag-spacing": "off",
+        "no-undefined": "off",
+        "no-unused-vars": "warn"
+    },
+    "plugins": []
+}
