@@ -1,6 +1,6 @@
 # 一个基于 react 的 Electron 的项目模板
 
-## 使用 create-react-app 创建项目，通过 yarn eject 暴露所有 webpack 配置。UI 使用 antd，配置了 babel-plugin-import 按需加载。项目架构使用 React 全家桶，redux 中间件使用 redux-thunk
+## 使用 create-react-app 创建项目，通过 yarn eject 暴露所有 webpack 配置。UI 使用 **antd**，配置了 **babel-plugin-import** 按需加载。项目架构使用 React 全家桶，redux 中间件使用 redux-thunk
 
 ### react-electron-antd
 
